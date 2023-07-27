@@ -1,2 +1,2 @@
-# lollogger
-key logger with dll injection if you press "$"
+# Discontinued
+i won't make keyloggers anymore lmfao
